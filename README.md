@@ -6,12 +6,12 @@ Hakemistot sisältävät metsätilan tiedot viimeisen kymmenen vuoden ajalta
 Kansioiden sisältö:
 
 
-<a href="https://tahtu.github.io/metsa/ensiharvennus2019">ensiharvennus 2019</a>
+<a href="https://tahtu.github.io/metsa/ensiharvennus2019">Ensiharvennus 2019</a>
 
 - Vanhimman kuusileimikon, sekä radanvarren sekapuuleimikon harvennus
 
 
-lannoitus2019
+<a href="https://tahtu.github.io/metsa/lannoitus2019">Lannoitus 2019</a>
 
 - Boorilannoitukseen liittyvät materiaalit
 
